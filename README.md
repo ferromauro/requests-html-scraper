@@ -1,10 +1,11 @@
 # requests-html-scraper
 Simple Python scraper using Requests-HTML library.
+
 Required Python v. 3.x
 
 To install Requests-HTML use:
 
-pip install requests-html
+**pip install requests-html**
 
 
 ### Disclaimer! 
